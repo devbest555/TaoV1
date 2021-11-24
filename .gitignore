@@ -1,0 +1,10 @@
+scripts/
+artifacts/
+cache/
+artifacts/
+node_modules/
+deployments/bsctestnet2/
+package-lock.json
+.env
+deploy/Utils/scripts/
+limbo/
